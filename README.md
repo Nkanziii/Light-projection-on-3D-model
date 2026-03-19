@@ -39,4 +39,9 @@ I wanted to explore this project through a new medium and explore three.js as my
 
 Exploring scripture as light. But light, when controlled, becomes shadow.
 
+
+</p>
+
+<p>
+  <img src='assets/'/>
 </p>
