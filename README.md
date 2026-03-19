@@ -2,6 +2,13 @@
 
 [Click here to view project](https://nkanziii.github.io/Light-projection-on-3D-model/)
 
+<p align="center">
+  <img src='assets/images/final.jpg' width="500"/>
+  <img src='assets/images/final-2.jpg' width="500"/>
+  <img src='assets/images/final-3.jpg' width="500"/>
+  <img src='assets/images/final-4.jpg' width="500"/>
+</p>
+
 <h2>Project Concept</h2>
 <p>
   I often draw inspiration from my own life when creating work. My practice is rooted in personal experience, memory, and identity. I am drawn to creating pieces that are deeply connected to who I am, work that allows me to explore my background and the circumstances that have shaped me.
@@ -42,6 +49,3 @@ Exploring scripture as light. But light, when controlled, becomes shadow.
 
 </p>
 
-<p>
-  <img src='assets/'/>
-</p>
