@@ -1,6 +1,5 @@
 # Light-projection-on-3D-model
 
-[Click here to view project](https://nkanziii.github.io/Light-projection-on-3D-model/)
 
 <p align="center">
   <img src='assets/images/final.jpg' width="500"/>
@@ -8,6 +7,10 @@
   <img src='assets/images/final-3.jpg' width="500"/>
   <img src='assets/images/final-4.jpg' width="500"/>
 </p>
+
+[Click here to view project](https://nkanziii.github.io/Light-projection-on-3D-model/)
+
+[Clcik here to view the code](index.html)
 
 <h2>Project Concept</h2>
 <p>
