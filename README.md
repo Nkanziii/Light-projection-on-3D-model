@@ -51,7 +51,7 @@ Exploring scripture as light. But light, when controlled, becomes shadow.
 
 <h4>Inspired by ASCII images</h4>
 
-[Click here to view ASCII image inspiration]()
+[Click here to view ASCII image inspiration](Sketch-inspiration.md)
 
 </p>
 
