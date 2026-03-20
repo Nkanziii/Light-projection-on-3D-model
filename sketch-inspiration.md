@@ -6,9 +6,11 @@
   <img src="assets/images/ascii-3.jpg" width="600"/>
 </p>
 
-[Click here to view code](assets/code/ascii-images.js)
 
 [Click here to view Sketch](https://editor.p5js.org/Nkanziii/full/vuB0vcSnQ)
+
+[Click here to view code](assets/code/ascii-images.js)
+
 
  ---
  
@@ -20,4 +22,5 @@
 </p>
 
 [Click here to view sketch](https://editor.p5js.org/Nkanziii/full/MOR1kkQHd)
+
 [Click here to view code](assets/code/initial-ascii.js)
