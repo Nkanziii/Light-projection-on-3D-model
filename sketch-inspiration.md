@@ -20,3 +20,4 @@
 </p>
 
 [Click here to view sketch](https://editor.p5js.org/Nkanziii/full/MOR1kkQHd)
+[Click here to view code](assets/code/initial-ascii.js)
