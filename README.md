@@ -8,12 +8,7 @@
   <img src='assets/images/final-4.jpg' width="500"/>
 </p>
 
-<p align="center">
-  <img src='assets/images/final.jpg' width="500"/>
-  <img src='assets/images/final-2.jpg' width="500"/>
-  <img src='assets/images/final-3.jpg' width="500"/>
-  <img src='assets/images/final-4.jpg' width="500"/>
-</p>
+
 
 
 [Click here to view project](https://nkanziii.github.io/Light-projection-on-3D-model/)
